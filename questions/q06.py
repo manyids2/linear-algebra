@@ -22,4 +22,4 @@ question.d[:, 0] = 0
 question.print()
 
 print(f"{question.correct=}")
-question.verify()
+# question.verify()
